@@ -1,4 +1,5 @@
 numpy
-matplotlib
+matplotlib.colors
+matplotlib.pyplot
 streamlit
 datetime
